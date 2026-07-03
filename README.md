@@ -1,3 +1,7 @@
+<img align="center" alt="enanayakkara" src="https://github.com/enanayakkara/images/blob/main/linkedin.jpg">
+
+---
+
 <h1 align="center">Hi 👋, I'm Eranga Nanayakkara</h1>
 <h3 align="center">Full Stack Software Engineer | React | Node.js | AWS</h3>
 
